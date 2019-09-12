@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trov_TakeHome", "Trov_Take-Home\Trov_TakeHome.csproj", "{7C335CE2-1CFB-48C4-AE24-952997690C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTests", "SpecFlowTests\SpecFlowTests.csproj", "{AF0EBD1D-93C5-4FC7-86EA-B1FE2FCCF723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C335CE2-1CFB-48C4-AE24-952997690C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C335CE2-1CFB-48C4-AE24-952997690C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C335CE2-1CFB-48C4-AE24-952997690C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C335CE2-1CFB-48C4-AE24-952997690C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0EBD1D-93C5-4FC7-86EA-B1FE2FCCF723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0EBD1D-93C5-4FC7-86EA-B1FE2FCCF723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0EBD1D-93C5-4FC7-86EA-B1FE2FCCF723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0EBD1D-93C5-4FC7-86EA-B1FE2FCCF723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57AFCF32-DB4D-4A06-A1EA-D16F21C9A8A1}
+	EndGlobalSection
+EndGlobal
